@@ -6,7 +6,7 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>testing-child-api</artifactId>
     <version>1.0.0</version>
-    <packaging>mule-application</packaging>
+   <packaging>mule</packaging>
 
 
 <parent>
